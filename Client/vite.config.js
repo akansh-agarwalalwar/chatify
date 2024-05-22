@@ -14,7 +14,7 @@ export default defineConfig(({ mode }) => {
         "/api": {
           // target: env.VITE_BACKEND_URL,
           // target: "https://chat-app-server-utev.onrender.com",
-          target: "https://github.com/akansh-agarwalalwar/chatify.git",
+          target: "https://chatiify-backend.onrender.com/",
         },
       },
     },
